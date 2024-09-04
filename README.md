@@ -1,2 +1,4 @@
 # mohitparihar-demo
-this is my first repo
+this is my first repository 
+author- mohit parihar
+
